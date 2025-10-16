@@ -1,1 +1,1 @@
-dir
+echo Your text content here > hack.txt
