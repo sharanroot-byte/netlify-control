@@ -1,1 +1,1 @@
-echo Your text content here > hack.txt
+type hack.txt
